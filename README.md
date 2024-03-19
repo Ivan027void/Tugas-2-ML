@@ -8,7 +8,7 @@ Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin
 <p></p>NPM : 2108107010027</p>
 
 **Dataset yang dipakai**
-### Support Vector Machine (SVM)
+### Support Vector Clasifier (SVC)
 Dataset dari kaggle https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
 
 <p> in particular, all patients here are females at least 21 years old of Pima Indian heritage.</p>

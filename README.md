@@ -7,6 +7,12 @@ Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin
 <p>Nama: Ivan Chiari</p>
 <p></p>NPM : 2108107010027</p>
 
+**Libary Python yang dipakai**
+1. Numpy
+2. Scikit-Learn
+3. Matplotlib
+4. Seaborn
+
 **Dataset yang dipakai**
 ### Support Vector Clasifier (SVC)
 Dataset dari kaggle https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
